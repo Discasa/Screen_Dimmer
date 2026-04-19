@@ -17,8 +17,6 @@ It includes light and dark themes, custom tint controls, and per-monitor profile
   <img src="img/Screen_Dimer_PS_04.png" alt="Screen Dimmer overlay and compact color picker" width="48%">
 </p>
 
-For the full technical breakdown, repository layout, runtime data, install flow, build flow, and internal flags, see [Specifications](Specifications.md).
-
 ## Main Features
 
 - Frameless full-screen dim overlay
@@ -32,6 +30,8 @@ For the full technical breakdown, repository layout, runtime data, install flow,
 - Single-instance activation via local IPC
 - Custom frameless installer and uninstaller UI
 - Source-first Python workflow and packaged executable workflow in the same project
+
+For the full technical breakdown, repository layout, runtime data, install flow, build flow, and internal flags, see [Specifications](Specifications.md).
 
 ## License
 
