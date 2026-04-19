@@ -24,6 +24,7 @@ if not "%EXIT_CODE%"=="0" (
     echo Build failed.
     exit /b 1
 )
+call :trim_dist || exit /b 1
 
 echo.
 echo Build completed successfully.
@@ -69,4 +70,10 @@ for %%F in (Screen_Dimmer.py Screen_Dimmer_Installer.py Screen_Dimmer_Uninstall.
     if exist "%BACKUP_DIR%\%%F" move /y "%BACKUP_DIR%\%%F" "%PROJECT_ROOT%%%F" >nul
 )
 if exist "%BACKUP_DIR%" rmdir /s /q "%BACKUP_DIR%"
+exit /b 0
+
+:trim_dist
+for %%F in (Screen_Dimmer.exe Screen_Dimmer_Uninstall.exe) do (
+    if exist "%DIST_DIR%\%%F" del /f /q "%DIST_DIR%\%%F" || exit /b 1
+)
 exit /b 0
