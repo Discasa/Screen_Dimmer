@@ -1,0 +1,5 @@
+# Runtime dependency used by the main app, installer, and uninstaller
+PySide6==6.10.2
+
+# Build dependency used by build_release.bat
+pyinstaller==6.19.0
