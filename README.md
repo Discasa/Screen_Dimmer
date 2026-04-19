@@ -1,5 +1,5 @@
 <h1>
-  <img src="img/Screen_Dimmer_Icon.png" alt="Screen Dimmer icon" width="30">
+  <img src="img/Screen_Dimmer_Icon.png" alt="Screen Dimmer icon" width="25">
   Screen Dimmer
 </h1>
 
