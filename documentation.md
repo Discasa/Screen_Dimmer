@@ -80,3 +80,7 @@ python -m py_compile .\Screen_Dimmer.py .\Screen_Dimmer_Installer.py .\Screen_Di
 - Update screenshots in `img` when visible UI behavior changes.
 - Keep image-related helper scripts under `img/scripts`.
 - Validate installer and uninstaller flows on Windows before release.
+
+## 7. License
+
+Screen Dimmer is distributed under the MIT License. See `LICENSE` for the full text.

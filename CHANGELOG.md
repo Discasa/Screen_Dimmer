@@ -2,6 +2,12 @@
 
 All notable changes to **Screen Dimmer** are documented in this file.
 
+## [2026-05-01-license]
+
+### Changed
+
+- Refreshed README and documentation license references.
+
 ## [2026-05-01-doc-refresh]
 
 ### Changed

@@ -35,7 +35,7 @@ For the current technical overview, repository layout, runtime data, install flo
 
 ## License
 
-This repository includes an MIT [LICENSE](LICENSE).
+This repository is licensed under the MIT License. See [LICENSE](LICENSE).
 
 ## Changelog
 
