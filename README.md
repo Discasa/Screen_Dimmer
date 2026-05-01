@@ -31,8 +31,12 @@ It includes light and dark themes, custom tint controls, and per-monitor profile
 - Custom frameless installer and uninstaller UI
 - Source-first Python workflow and packaged executable workflow in the same project
 
-For the full technical breakdown, repository layout, runtime data, install flow, build flow, and internal flags, see [Specifications](Specifications.md).
+For the current technical overview, repository layout, runtime data, install flow, build flow, and validation notes, see [documentation](documentation.md). For the deeper implementation reference, see [Specifications](Specifications.md).
 
 ## License
 
 This repository includes an MIT [LICENSE](LICENSE).
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for project history.
