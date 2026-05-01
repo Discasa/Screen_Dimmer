@@ -2,6 +2,13 @@
 
 All notable changes to **Screen Dimmer** are documented in this file.
 
+## [2026-05-01-assets]
+
+### Changed
+
+- Confirmed image assets already use the standardized `img` folder.
+- Removed local generated artifacts from the working tree during repository cleanup.
+
 ## [2026-05-01]
 
 ### Added

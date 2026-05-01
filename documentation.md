@@ -15,6 +15,7 @@ Screen_Dimmer
   Screen_Dimmer_Uninstall.py   Custom uninstaller
   build_release.bat            Release packaging script
   img                          Icons, screenshots, and artwork archive
+  img/scripts                  Image-related helper scripts, when present
   requirements.txt             Runtime and build dependencies
   README.md                    User-facing overview
   documentation.md             Operational documentation
