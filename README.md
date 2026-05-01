@@ -40,3 +40,7 @@ This repository includes an MIT [LICENSE](LICENSE).
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for project history.
+
+## Asset Layout
+
+Image assets live under `img`. Image-related helper scripts should live under `img/scripts`.

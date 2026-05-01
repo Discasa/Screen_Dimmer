@@ -78,4 +78,5 @@ python -m py_compile .\Screen_Dimmer.py .\Screen_Dimmer_Installer.py .\Screen_Di
 - Keep this file aligned with current operations and release workflow.
 - Keep `Specifications.md` aligned with implementation details when architecture changes.
 - Update screenshots in `img` when visible UI behavior changes.
+- Keep image-related helper scripts under `img/scripts`.
 - Validate installer and uninstaller flows on Windows before release.

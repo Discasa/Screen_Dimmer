@@ -2,6 +2,12 @@
 
 All notable changes to **Screen Dimmer** are documented in this file.
 
+## [2026-05-01-doc-refresh]
+
+### Changed
+
+- Refreshed README and documentation to call out the standardized `img` and `img/scripts` layout.
+
 ## [2026-05-01-assets]
 
 ### Changed
